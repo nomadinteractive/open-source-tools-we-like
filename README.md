@@ -11,4 +11,4 @@ Open source alternatives to popular tools we use
 | :clapper: | HandBrake | Video transcoder available for Linux, Mac, and Windows | https://github.com/HandBrake/HandBrake |
 | :key: | Bitwarden | Password management | https://github.com/bitwarden |
 | :scissors: | Jumpcut | Quick, natural, intuitive access to your clipboard's history | https://github.com/snark/jumpcut |
-| :computer: | Flycut | Jumpcut based clipboard manager for developers | https://github.com/snark/jumpcut |
+| :computer: | Flycut | Jumpcut based clipboard manager for developers | https://github.com/TermiT/Flycut |

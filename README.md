@@ -12,3 +12,4 @@ Open source alternatives to popular tools we use
 | :key: | Bitwarden | Password management | https://github.com/bitwarden |
 | :scissors: | Jumpcut | Quick, natural, intuitive access to your clipboard's history | https://github.com/snark/jumpcut |
 | :computer: | Flycut | Jumpcut based clipboard manager for developers | https://github.com/TermiT/Flycut |
+| :sleeping: | KeepingYouAwake | Prevents your Mac from going to sleep. | https://github.com/newmarcel/KeepingYouAwake |

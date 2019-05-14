@@ -13,3 +13,4 @@ Open source alternatives to popular tools we use
 | :scissors: | Jumpcut | Quick, natural, intuitive access to your clipboard's history | https://github.com/snark/jumpcut |
 | :computer: | Flycut | Jumpcut based clipboard manager for developers | https://github.com/TermiT/Flycut |
 | :sleeping: | KeepingYouAwake | Prevents your Mac from going to sleep. | https://github.com/newmarcel/KeepingYouAwake |
+| :clock1: | Stretchly | Time out Rminder. | https://github.com/hovancik/stretchly |

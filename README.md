@@ -1,5 +1,5 @@
-# open-source-tools-we-like
-Open source alternatives to popular tools we use
+# Open source tools we like
+Open source alternatives to popular tools we use in Nomad Interactive
 
 | :information_source: | Name  | Description | Source |
 | :--- | :--- | :--- | :--- |
